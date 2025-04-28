@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "options": {
+        "A": "Berlin",
+        "B": "Madrid",
+        "C": "Paris",
+        "D": "Rome"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "options": {
+        "A": "Earth",
+        "B": "Mars",
+        "C": "Jupiter",
+        "D": "Saturn"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What is the square root of 144?",
+      "options": {
+        "A": "10",
+        "B": "11",
+        "C": "12",
+        "D": "13"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "options": {
+        "A": "William Shakespeare",
+        "B": "Charles Dickens",
+        "C": "Jane Austen",
+        "D": "Mark Twain"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What is the smallest prime number?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which element has the chemical symbol 'O'?",
+      "options": {
+        "A": "Oxygen",
+        "B": "Osmium",
+        "C": "Ozone",
+        "D": "Oganesson"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": {
+        "A": "Vincent van Gogh",
+        "B": "Pablo Picasso",
+        "C": "Leonardo da Vinci",
+        "D": "Claude Monet"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "What is the chemical formula for water?",
+      "options": {
+        "A": "H2O",
+        "B": "CO2",
+        "C": "O2",
+        "D": "H2SO4"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which animal is known as the 'King of the Jungle'?",
+      "options": {
+        "A": "Lion",
+        "B": "Tiger",
+        "C": "Elephant",
+        "D": "Giraffe"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question": "What is the freezing point of water?",
+      "options": {
+        "A": "0 C",
+        "B": "32 F",
+        "C": "100 C",
+        "D": "212 F"
+      },
+      "correct_answer": "A"
+    }
+  ]
+}
